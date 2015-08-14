@@ -2,14 +2,14 @@
       * TYPE *NONE
       * SRCF QRPGLESRC
       * TEXT API - Gestion des objets
-      * ------------------------------------------------------------------------
+      * -------------------------------------------------------------------------
       * API de gestion des objets
       * Change Library List (QLICHGLL) API
       * Change Object Description (QLICOBJD)
       * List Objects (QUSLOBJ) API
       * Rename Object (QLIRNMO) API
       * Retrieve Object Description (QUSROBJD)
-      * ------------------------------------------------------------------------
+      * -------------------------------------------------------------------------
       * Retrieve Object Description (QUSROBJD) API
      DRtvObj           PR                  EXTPGM('QUSROBJD')
      D  Receiver                   1000A   OPTIONS(*VARSIZE)                    Receiver variable
